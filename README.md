@@ -1,9 +1,6 @@
 ## Hi, I'm Hayden
 
-<!--
-**haydengrann/haydengrann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on trying to pass class while also trying to 
 - 🌱 I’m currently learning web development and problem solving in JAC
@@ -12,7 +9,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## What I'm learning 
 
