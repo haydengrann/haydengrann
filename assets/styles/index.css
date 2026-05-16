@@ -137,3 +137,32 @@ h1 span
     gap: 0.75rem;
     margin-top: 1.5rem;
 }
+.lang-card
+{
+    background: #111418;
+    border: 1px solid #1e2530;
+    padding: 1rem 1.2rem;
+    font-size: 0.85rem;
+    display: flex; 
+    align-items: center;
+    gap: 0.5rem;
+    transition: border-color 0.2s;
+}
+.lang-card:hover 
+{
+    border-color: #00e5ff;
+}
+.lang-dot
+{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #00e5ff
+}
+footer{
+   border-top: 1px solid #1e2530;
+   text-align: center; 
+   padding: 2rem;
+   font-size: 0.75rem;
+   color: #6b7585;
+}
